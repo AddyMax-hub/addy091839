@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Addy091839</h1>
 <h3 align="center">I am a youtuber and app Developer and an web developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=addy091839&label=Profile%20views&color=0e75b6&style=flat" alt="addy091839" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy091839" alt="addy091839" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucz_vtf9mk1u1dx3n8jhfchq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucz_vtf9mk1u1dx3n8jhfchq" height="30" width="40" /></a>
