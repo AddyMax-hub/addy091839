@@ -1,5 +1,4 @@
 # verbose-octo-succotash
-
 <h1 align="center">Hi 👋, I'm Addy091839</h1>
 <h3 align="center">I am a youtuber and app Developer and an web developer</h3>
 
@@ -12,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucz_vtf9mk1u1dx3n8jhfchq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucz_vtf9mk1u1dx3n8jhfchq" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/DvS3s8Ub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/DvS3s8Ub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
