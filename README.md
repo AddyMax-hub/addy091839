@@ -1,5 +1,5 @@
 # verbose-octo-succotash
-<h1 align="center">Hi 👋, I'm Addy091839</h1>
+<h1 align="center">Hi 👋, I'm Addy's Tech</h1>
 <h3 align="center">I am a youtuber and app Developer and an web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy091839&label=Profile%20views&color=0e75b6&style=flat" alt="addy091839" /> </p>
